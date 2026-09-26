@@ -19,8 +19,8 @@ A command-line utility to efficiently add, update, and manage tasks with local J
 1. Clone the repository and navigate into the project directory:
 
    ```bash
-   git clone https://github.com/yourusername/task-tracker.git
-   cd Task_tracker
+   git clone [https://github.com/10pie/task-tracker.git](https://github.com/10pie/Task-Tracker-CLI.git)
+   cd Task_Tracker
    ```
 
 2. Compile the project and build the executable JAR file using Maven:
