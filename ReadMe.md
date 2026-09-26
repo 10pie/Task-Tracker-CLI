@@ -19,7 +19,7 @@ A command-line utility to efficiently add, update, and manage tasks with local J
 1. Clone the repository and navigate into the project directory:
 
    ```bash
-   git clone [https://github.com/10pie/task-tracker.git](https://github.com/10pie/Task-Tracker-CLI.git)
+   git clone https://github.com/10pie/Task-Tracker-CLI.git
    cd Task_Tracker
    ```
 
